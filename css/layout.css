@@ -209,9 +209,9 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
-   border-radius: 100%;
+   width: 230px;
+   height: 230px;
+   border-radius: 50%;
 }
 #about .contact-details { width: 39.66667%; }
 #about .education-details { width: 60%; }
